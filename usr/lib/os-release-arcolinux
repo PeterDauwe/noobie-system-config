@@ -1,5 +1,5 @@
-NAME=ArcoLinux
-ID=arcolinux
+NAME=ArcoBobo
+ID=arcobobo
 ID_LIKE=arch
 BUILD_ID=rolling
 ANSI_COLOR="0;36"
